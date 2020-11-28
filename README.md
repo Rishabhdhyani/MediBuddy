@@ -1,7 +1,7 @@
 # ML-MT-WebApp
 
-<img src="https://cdn.activestate.com/wp-content/uploads/2018/10/machine-learning-healthcare-blog-hero-1200x799.jpg" width="1100" height="300" />
-<p> This is one of major project of my undergraduate degree program.</p>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.digitalauthority.me%2Fwp-content%2Fuploads%2F2018%2F12%2Fshutterstock_400002673.jpg&imgrefurl=https%3A%2F%2Fwww.digitalauthority.me%2Fresources%2Fhealthcare-marketing%2F&tbnid=THbkf0vxywIp-M&vet=12ahUKEwias6b9lqbtAhWPY30KHaX5DR4QMygAegUIARCrAQ..i&docid=H4U-NfgZK5DzOM&w=750&h=450&q=healthcare%20pics&ved=2ahUKEwias6b9lqbtAhWPY30KHaX5DR4QMygAegUIARCrAQ" width="1100" height="300" />
+
 <p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
 <hr>
@@ -18,13 +18,6 @@
 </ul>
 <hr>
 
-<h3> Kernals used for training deep learning model </h3>
-<ul>
-<li><p><b>Kernal for Malaria model :</b>https://www.kaggle.com/shobhit18th/malaria-cell</p></li>
-
-<li><p><b>Kernal for Pneumonia model :</b>https://www.kaggle.com/shobhit18th/keras-nn-x-ray-predict-pneumonia-86-54</p></li>
-<hr>
-</ul>
 
 <h3> Details of various datasets used for model development : </h3>
 <ul>
