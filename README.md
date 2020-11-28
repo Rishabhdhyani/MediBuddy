@@ -1,6 +1,6 @@
 # ML-MT-WebApp
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.digitalauthority.me%2Fwp-content%2Fuploads%2F2018%2F12%2Fshutterstock_400002673.jpg&imgrefurl=https%3A%2F%2Fwww.digitalauthority.me%2Fresources%2Fhealthcare-marketing%2F&tbnid=THbkf0vxywIp-M&vet=12ahUKEwias6b9lqbtAhWPY30KHaX5DR4QMygAegUIARCrAQ..i&docid=H4U-NfgZK5DzOM&w=750&h=450&q=healthcare%20pics&ved=2ahUKEwias6b9lqbtAhWPY30KHaX5DR4QMygAegUIARCrAQ" width="1100" height="300" />
+<img src="https://www.digitalauthority.me/wp-content/uploads/2018/12/shutterstock_400002673.jpg" width="1100" height="300" />
 
 <p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
