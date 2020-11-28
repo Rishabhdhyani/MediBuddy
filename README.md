@@ -54,8 +54,8 @@
 <hr>
  <h3> For using the project clone the repository and type the following commands in the termial: </h3>
  <ul>
-  <li> $ set FLASK_APP= app.py</li>
-  <li> $ flask run</li>
+  <li> $ pip3 install -r requirements.txt</li>
+  <li> $ python3 app.py</li>
   </ul>
   
   <hr>
